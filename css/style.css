@@ -124,6 +124,10 @@ main {
   max-width: 200px;
 }
 
+.info p {
+  color: #e5e7eb;
+}
+
 
 /* QUOTE */
 .quote {
